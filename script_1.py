@@ -1,6 +1,6 @@
 """
-@uther: Onkar Jaliminche
-Task : When a file or script or any kind  directory created in this directory should be destroyed in some time after created.
+@uthor: Onkar Jaliminche
+Task : When a file or script or any kind  directory created in this directory should be destroyed inbetween 2 - 3 min after created.
 """
 
 
